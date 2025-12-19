@@ -1,5 +1,6 @@
-
-
+<div align="center">
+    <img src="https://github.com/Jayani22/Jayani22/blob/main/Banner.png>" alt="GitHub Banner" width="800"/>
+</div>
 
 # Hi, I'm Mutcherla Jayani
 
