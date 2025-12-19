@@ -1,3 +1,10 @@
+
+
+
+# Hi, I'm Mutcherla Jayani
+
+### Aspiring DevOps Engineer focused on cloud infrastructure and automation.
+
 # 💫 About Me:
 I am an aspiring DevOps Engineer focused on building hands-on skills in cloud infrastructure and automation. I work with Linux, AWS, Docker, Kubernetes, and Ansible, and I enjoy learning through real-world projects.
 
