@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://github.com/Jayani22/Jayani22/blob/main/Banner.png>" alt="GitHub Banner" width="800"/>
-</div>
+![Banner](banner.png)
 
 # Hi, I'm Mutcherla Jayani
 
