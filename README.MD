@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](Git_Banner.png)
 
 # Hi, I'm Mutcherla Jayani
 
